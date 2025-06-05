@@ -1,0 +1,11 @@
+# GUI Framework
+PyQt5
+
+# Computer Vision & Image Processing
+opencv-python
+numpy
+
+ultralytics
+insightface
+onnxruntime 	
+scikit-learn

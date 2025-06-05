@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "mode": "Dark",
+    "background": "#2B2B2B",
+    "button": "#444444",
+    "text": "#FFFFFF"
+  },
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "username": "pythonisdumb@gmail.com",
+    "password": "pjijhgliwegvmwlx",
+    "use_tls": true
+  }
+}
