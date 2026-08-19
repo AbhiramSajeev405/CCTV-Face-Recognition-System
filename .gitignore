@@ -12,6 +12,9 @@ pyvenv.cfg
 # Environment variables
 .env
 
+# Log files
+*.log
+
 # IDE files
 .vscode/
 .idea/
