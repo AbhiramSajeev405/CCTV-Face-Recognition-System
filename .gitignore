@@ -22,3 +22,8 @@ pyvenv.cfg
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Runtime database
+*.db
+*.sqlite
+*.sqlite3
