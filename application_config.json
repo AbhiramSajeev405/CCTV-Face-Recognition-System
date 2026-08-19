@@ -5,14 +5,11 @@
     "button": "#444444",
     "text": "#FFFFFF"
   },
-  {
   "smtp": {
     "host": "smtp.gmail.com",
     "port": 587,
     "username": "YOUR_EMAIL@example.com",
     "password": "YOUR_APP_PASSWORD",
     "use_tls": true
-  }
-}
   }
 }
