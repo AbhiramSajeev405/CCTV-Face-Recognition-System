@@ -221,7 +221,7 @@ The supervised classifier training logic is implemented in:
 classifiertraining.py
 ```
 
-The training process extracts facial embeddings from labeled images and trains an SVM classifier using those embeddings.
+The training process extracts facial embeddings from labelled images and trains an SVM classifier using those embeddings.
 
 ---
 
@@ -229,10 +229,10 @@ The training process extracts facial embeddings from labeled images and trains a
 
 | Supervised                     | Unsupervised                               |
 | ------------------------------ | ------------------------------------------ |
-| Requires labeled identities    | Does not require predefined identities     |
+| Requires labelled identities    | Does not require predefined identities     |
 | Uses SVM                       | Uses DBSCAN                                |
 | Learns known face classes      | Discovers groups automatically             |
-| Suitable for known individuals | Suitable for unknown/unlabeled individuals |
+| Suitable for known individuals | Suitable for unknown/unlabelled individuals |
 | Classification problem         | Clustering problem                         |
 
 ---
@@ -260,14 +260,26 @@ Any real-world deployment should consider:
 This project was developed for **academic and educational purposes**. Face recognition technologies should be used responsibly and in accordance with applicable privacy, security, and data-protection requirements.
 
 ---
+## 📚 Project Context
 
-## 👤 Authors
+The **CCTV Face Recognition System** was developed collaboratively by our four-member academic project team as part of our academic work. Our team worked together on the design, development, implementation, testing, and documentation of the system.
 
-**Abhiram Sajeev**
-**Adarsh S J**
-**Alfin Jerome**
-**Alen J S**
+The project focuses on applying **computer vision and face recognition techniques** to CCTV-based surveillance, with the goal of detecting and recognizing individuals from video footage and exploring the practical application of machine learning in intelligent surveillance systems.
+
+The development of this project was a collaborative effort by **Abhiram Sajeev, Adarsh S J, Alfin Jerome, and Alen J S**.
+
+## 👥 Project Team
+
+This project was designed and developed collaboratively by our four-member academic project team. We worked together on the development, testing, and documentation of the CCTV Face Recognition System.
+
+| Team Member | GitHub |
+|-------------|--------|
+| **Abhiram Sajeev** | [@AbhiramSajeev405](https://github.com/AbhiramSajeev405) |
+| **Adarsh S J** | [@Horcrux123](https://github.com/Horcrux123) |
+| **Alfin Jerome** | [@alfinjerome](https://github.com/alfinjerome) |
+| **Alen J S** | [@thereelalen](https://github.com/thereelalen) |
+
+> This repository represents the collaborative work of all four team members.
 
 
-GitHub: `AbhiramSajeev405`
 
